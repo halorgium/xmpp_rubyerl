@@ -1,8 +1,8 @@
 ---
 profile:
-    jid: spork@jabber.meta.net.nz
-    pass: test
+    jid: bot@domain.com
+    pass: secur3
     resource: robot
 
 recipients:
-    - halorgium@jabber.meta.net.nz
+    - user@domain.com
