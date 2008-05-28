@@ -1,0 +1,5 @@
+[{xmpp_rubyerl, [
+    {base_dir, "/Users/tim/Projects/erlang/xmpp_rubyerl"}
+]}].
+
+% vim:filetype=erlang

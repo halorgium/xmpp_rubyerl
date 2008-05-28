@@ -1,0 +1,8 @@
+---
+profile:
+    jid: spork@jabber.meta.net.nz
+    pass: test
+    resource: robot
+
+recipients:
+    - halorgium@jabber.meta.net.nz

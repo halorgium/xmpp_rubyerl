@@ -1,0 +1,6 @@
+ebin/*.beam
+priv/xmpp_rubyerl.config
+priv/config.yml
+priv/client.log
+erl_crash.dump
+tmp
